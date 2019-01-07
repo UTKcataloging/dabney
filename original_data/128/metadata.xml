@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Letter from W.L. Holt to University of Tennessee Librarian</title>
+<publication-date>1923-04-18T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Holt</lname>
+<fname>W.L.</fname>
+</author>
+</authors>
+<keywords>
+<keyword>AR.0001</keyword>
+</keywords>
+<coverpage-url>http://trace.tennessee.edu/utk_dabn/128</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1119&amp;amp;context=utk_dabn&amp;amp;unstamped=1</fulltext-url>
+<label>128</label>
+<document-type>universityfinancialstatements</document-type>
+<type>article</type>
+<articleid>1119</articleid>
+<submission-date>2011-05-31T08:45:46-07:00</submission-date>
+<publication-title>Charles W. Dabney, 1887-1904</publication-title>
+<context-key>2039758</context-key>
+<submission-path>utk_dabn/128</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-05-31T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1923-04-18T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

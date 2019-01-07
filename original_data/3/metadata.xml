@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Presidential Address Given, by Dabney, at the Association of Southern Colleges &amp; Preparatory</title>
+<publication-date>1899-11-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<organization>University of Tennessee</organization>
+</author>
+</authors>
+<keywords>
+<keyword>Charles Dabney</keyword>
+<keyword>UT Libraries</keyword>
+<keyword>Presidential Address</keyword>
+<keyword>Southern Colleges &amp; Preparatory</keyword>
+<keyword>AR.0001</keyword>
+</keywords>
+<coverpage-url>http://trace.tennessee.edu/utk_dabn/3</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1002&amp;amp;context=utk_dabn&amp;amp;unstamped=1</fulltext-url>
+<label>3</label>
+<document-type>universitypolicy</document-type>
+<type>article</type>
+<articleid>1002</articleid>
+<submission-date>2010-09-10T09:30:04-07:00</submission-date>
+<publication-title>Charles W. Dabney, 1887-1904</publication-title>
+<context-key>1551289</context-key>
+<submission-path>utk_dabn/3</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>Schools in Columbia, S.C., Nov 1, 1899 (2 pages)</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1899-11-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

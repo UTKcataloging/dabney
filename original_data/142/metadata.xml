@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Letter and Enclosed Newspaper Clipping from The Fayette Falcon</title>
+<publication-date>1923-04-30T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Murphy</lname>
+<fname>Ross</fname>
+</author>
+</authors>
+<keywords>
+<keyword>AR.0001</keyword>
+</keywords>
+<coverpage-url>http://trace.tennessee.edu/utk_dabn/142</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1144&amp;amp;context=utk_dabn&amp;amp;unstamped=1</fulltext-url>
+<label>142</label>
+<document-type>universitypolicy</document-type>
+<type>article</type>
+<articleid>1144</articleid>
+<submission-date>2011-06-05T13:40:01-07:00</submission-date>
+<publication-title>Charles W. Dabney, 1887-1904</publication-title>
+<context-key>2047255</context-key>
+<submission-path>utk_dabn/142</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;Letter to the University&#39;s President Dr. H.A. Morgan regarding a newspaper clipping commenting on university policy.&lt;/p&gt;</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-06-05T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1923-04-30T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

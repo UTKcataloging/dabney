@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Letter to Dr. Brown Ayres from Mrs. J.H. Knox</title>
+<publication-date>1916-06-23T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Knox</lname>
+<fname>J.H.</fname>
+</author>
+</authors>
+<keywords>
+<keyword>AR.0001</keyword>
+</keywords>
+<coverpage-url>http://trace.tennessee.edu/utk_dabn/100</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1084&amp;amp;context=utk_dabn&amp;amp;unstamped=1</fulltext-url>
+<label>100</label>
+<document-type>dabneyletters</document-type>
+<type>article</type>
+<articleid>1084</articleid>
+<submission-date>2011-05-20T09:11:21-07:00</submission-date>
+<publication-title>Charles W. Dabney, 1887-1904</publication-title>
+<context-key>2022929</context-key>
+<submission-path>utk_dabn/100</submission-path>
+<fields>
+<field name="embargo_date" type="date">
+<value>2011-05-20T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1916-06-23T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

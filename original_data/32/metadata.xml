@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Financial Statement from Booker D. Schmitt, Bursar, to Dabney, 4-27-1891</title>
+<publication-date>1891-04-27T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Schmitt</lname>
+<fname>Booker D.</fname>
+</author>
+</authors>
+<keywords>
+<keyword>Charles Dabney</keyword>
+<keyword>UT Libraries</keyword>
+<keyword>AR.0001</keyword>
+</keywords>
+<coverpage-url>http://trace.tennessee.edu/utk_dabn/32</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1031&amp;amp;context=utk_dabn&amp;amp;unstamped=1</fulltext-url>
+<label>32</label>
+<document-type>universityfinancialstatements</document-type>
+<type>article</type>
+<articleid>1031</articleid>
+<submission-date>2010-09-10T09:30:04-07:00</submission-date>
+<publication-title>Charles W. Dabney, 1887-1904</publication-title>
+<context-key>1551319</context-key>
+<submission-path>utk_dabn/32</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>2 pages</value>
+</field>
+<field name="create_openurl" type="boolean">
+<value>true</value>
+</field>
+<field name="publication_date" type="date">
+<value>1891-04-27T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>

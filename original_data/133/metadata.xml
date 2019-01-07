@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1' ?>
+<documents><document>
+<title>Letter to Dr. H.A. Morgan from George B. Shaeffer Jr.</title>
+<publication-date>1923-01-01T00:00:00-08:00</publication-date>
+<authors>
+<author>
+<lname>Schaeffer, Jr.</lname>
+<fname>George</fname>
+<mname>B</mname>
+</author>
+</authors>
+<keywords>
+<keyword>AR.0001</keyword>
+</keywords>
+<coverpage-url>http://trace.tennessee.edu/utk_dabn/133</coverpage-url>
+<fulltext-url>http://trace.tennessee.edu/cgi/viewcontent.cgi?article=1129&amp;amp;context=utk_dabn&amp;amp;unstamped=1</fulltext-url>
+<label>133</label>
+<document-type>dabneyletters</document-type>
+<type>article</type>
+<articleid>1129</articleid>
+<submission-date>2011-05-31T12:54:25-07:00</submission-date>
+<publication-title>Charles W. Dabney, 1887-1904</publication-title>
+<context-key>2040264</context-key>
+<submission-path>utk_dabn/133</submission-path>
+<fields>
+<field name="comments" type="string">
+<value>&lt;p&gt;Actual date is unknown; the date provided (1923) is only approximate.&lt;/p&gt;</value>
+</field>
+<field name="embargo_date" type="date">
+<value>2011-05-31T00:00:00-07:00</value>
+</field>
+<field name="publication_date" type="date">
+<value>1923-01-01T00:00:00-08:00</value>
+</field>
+</fields>
+</document>
+</documents>
