@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">dabney_48</identifier>
+   <titleInfo supplied="yes">
+      <title>Correspondence between Dabney &amp; State Senator, John I. Cox, March 1905</title>
+   </titleInfo>
+   <abstract>Documents wherein University of Tennessee President Dabney is requesting state funds from Senator Cox to help purchase additional farm land and to complete the Mechanical building.</abstract>
+   <name>
+      <namePart>Cox, John I.</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n86023808">
+      <namePart>Dabney, Charles William, 1855-1945</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Mar 1, 1905</dateCreated>
+      <dateCreated keyDate="yes" encoding="edtf">1905-03-01</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85013482">
+      <topic>Betterments</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2008118265">
+      <topic>Government aid to higher education--United States</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003887">
+         <namePart>University of Tennessee (Knoxville campus)</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>University of Tennessee President's Papers, 1867-1954</title>
+      </titleInfo>
+      <identifier>AR.0001</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Charles Dabney, University of Tennessee Office of the President Records, 1867-1954</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation authority="naf"
+                        valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
